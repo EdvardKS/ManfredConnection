@@ -260,6 +260,12 @@
       ],
       "contactMails": [
         "edvardks97@icloud.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "657396036",
+          "countryCode": "+34"
+        }
       ]
     },
     "status": "searchingActively"
