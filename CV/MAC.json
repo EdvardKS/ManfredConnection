@@ -29,6 +29,11 @@
       {
         "type": "github",
         "URL": "https://github.com/EdvardKS"
+      },
+      {
+        "type": "other",
+        "URL": "https://edvardks.com",
+        "description": "Portfolio "
       }
     ]
   },
