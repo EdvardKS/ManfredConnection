@@ -127,6 +127,11 @@
       {
         "name": "ES",
         "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "LS",
+        "fullName": "Lenguaje de signos",
         "level": "Limited working proficiency"
       }
     ],
