@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/edvardks"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/EdvardKS"
       }
     ]
   },
@@ -256,6 +260,10 @@
         {
           "URL": "https://linkedin.com/in/edvardks",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/EdvardKS",
+          "type": "github"
         }
       ],
       "contactMails": [
