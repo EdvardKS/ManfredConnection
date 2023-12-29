@@ -32,6 +32,65 @@
     "jobs": [
       {
         "organization": {
+          "name": "Posiziona"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de aplicaciones web",
+            "startDate": "2022-06-01",
+            "finishDate": "2023-06-01",
+            "challenges": [
+              {
+                "description": "Desarrollo y mantenimiento de una app web en Laravel, wordpress, Php vanilla…"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apple macOS",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Prestashop",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Posiziona Teconologías de la Información, S.L."
         },
         "roles": [
