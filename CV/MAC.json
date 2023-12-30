@@ -319,6 +319,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Data Engineer",
         "Data Scientist",
