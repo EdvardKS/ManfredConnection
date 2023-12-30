@@ -320,6 +320,7 @@
     },
     "preferences": {
       "preferredRoles": [
+        "Data Scientist",
         "Machine Learning Engineer"
       ]
     },
