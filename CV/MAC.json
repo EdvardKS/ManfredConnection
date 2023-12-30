@@ -325,6 +325,10 @@
           "type": "technology"
         },
         {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
           "name": "Numpy",
           "type": "technology"
         },
