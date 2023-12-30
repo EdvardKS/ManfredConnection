@@ -318,6 +318,11 @@
         }
       ]
     },
+    "preferences": {
+      "preferredRoles": [
+        "Machine Learning Engineer"
+      ]
+    },
     "status": "searchingActively"
   },
   "manfredSpecificData": {
