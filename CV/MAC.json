@@ -321,6 +321,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
           "name": "Numpy",
           "type": "technology"
         },
