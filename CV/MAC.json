@@ -342,6 +342,7 @@
         "name": "Zookeeper",
         "type": "technology"
       }
-    ]
+    ],
+    "goodPractices": "En mi anterior empresa “Posiziona”, llevaba acabo diferentes proyectos, intentando crear una estructura de código bien organizada, y descriptiva. Sobre todo acudía a otros compañeros con experiencia para adoptar sus buenas prácticas en los diferentes proyectos."
   }
 }
