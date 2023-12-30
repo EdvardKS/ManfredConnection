@@ -321,6 +321,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Pandas",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         }
