@@ -321,6 +321,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "API",
+          "type": "technology"
+        },
+        {
           "name": "Apple macOS",
           "type": "technology"
         },
