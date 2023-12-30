@@ -321,6 +321,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Apple macOS",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
